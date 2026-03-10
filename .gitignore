@@ -1,0 +1,19 @@
+# User-specific files
+.DS_Store
+*.pyc
+__pycache__/
+
+# Data (Avoid pushing large synthetic datasets)
+data/base_images/
+data/adversarial_images/
+data/processed_images/
+
+# Results
+results/figures/
+results/tables/
+examples/*.png
+
+# Virtual environments
+venv/
+.env
+.ipynb_checkpoints/

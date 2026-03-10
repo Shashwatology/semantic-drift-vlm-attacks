@@ -1,0 +1,16 @@
+# Conda environment definition for Semantic Drift codebase
+name: semantic-drift-vlm
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - pyyaml
+  - pip:
+    - opencv-python
+    - pillow
+    - pytesseract
