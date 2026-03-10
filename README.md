@@ -149,7 +149,7 @@ This command will:
 *Department of Cyber Security, Shah and Anchor Kutchhi Engineering College, Mumbai*  
 [ORCID: 0009-0001-3986-686X](https://orcid.org/0009-0001-3986-686X)
 
-**Sargam Bijendra Sharma**  
+**Sargam Bijendra Sharma** 
 *Department of Artificial Intelligence and Data Science, Indian Institute of Technology Madras*  
 [ORCID: 0009-0005-7293-195X](https://orcid.org/0009-0005-7293-195X)
 
